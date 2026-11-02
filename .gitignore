@@ -1,3 +1,14 @@
 tools/node_modules/
 tools/package-lock.json
 __pycache__/
+# Képmásolatok nem kerülhetnek a (nyilvános) repóba – felhasználási jog nem igazolt
+assets/**/*.jpg
+assets/**/*.jpeg
+assets/**/*.png
+assets/**/*.gif
+assets/**/*.webp
+data/images/**/*.jpg
+data/images/**/*.jpeg
+data/images/**/*.png
+data/images/**/*.gif
+data/images/**/*.webp
