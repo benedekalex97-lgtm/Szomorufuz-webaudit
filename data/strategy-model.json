@@ -1,0 +1,254 @@
+{
+ "one_off": {
+  "A": {
+   "min": {
+    "hours": 62,
+    "tech": 744000.0,
+    "fixed": 0,
+    "content": 570000,
+    "base": 1314000.0,
+    "reserve": 131400.0,
+    "total": 1445400.0
+   },
+   "real": {
+    "hours": 100,
+    "tech": 1600000.0,
+    "fixed": 150000,
+    "content": 1220000,
+    "base": 2970000.0,
+    "reserve": 297000.0,
+    "total": 3267000.0
+   },
+   "high": {
+    "hours": 172,
+    "tech": 3784000.0,
+    "fixed": 500000,
+    "content": 2620000,
+    "base": 6904000.0,
+    "reserve": 690400.0,
+    "total": 7594400.0
+   }
+  },
+  "B": {
+   "min": {
+    "hours": 97,
+    "tech": 1161600.0000000002,
+    "fixed": 100000,
+    "content": 570000,
+    "base": 1831600.0000000002,
+    "reserve": 457900.00000000006,
+    "total": 2289500.0000000005
+   },
+   "real": {
+    "hours": 158,
+    "tech": 2534400.0,
+    "fixed": 300000,
+    "content": 1220000,
+    "base": 4054400.0,
+    "reserve": 1013600.0,
+    "total": 5068000.0
+   },
+   "high": {
+    "hours": 257,
+    "tech": 5662800.000000001,
+    "fixed": 700000,
+    "content": 2620000,
+    "base": 8982800.0,
+    "reserve": 2245700.0,
+    "total": 11228500.0
+   }
+  },
+  "C": {
+   "min": {
+    "hours": 195,
+    "tech": 2345999.9999999995,
+    "fixed": 50000,
+    "content": 570000,
+    "base": 2965999.9999999995,
+    "reserve": 593199.9999999999,
+    "total": 3559199.9999999995
+   },
+   "real": {
+    "hours": 315,
+    "tech": 5041599.999999999,
+    "fixed": 100000,
+    "content": 1220000,
+    "base": 6361599.999999999,
+    "reserve": 1272320.0,
+    "total": 7633919.999999999
+   },
+   "high": {
+    "hours": 518,
+    "tech": 11385000.0,
+    "fixed": 200000,
+    "content": 2620000,
+    "base": 14205000.0,
+    "reserve": 2841000.0,
+    "total": 17046000.0
+   }
+  }
+ },
+ "annual": {
+  "A": {
+   "min": 204000,
+   "real": 594000,
+   "high": 1606000
+  },
+  "B": {
+   "min": 244000,
+   "real": 644000,
+   "high": 1706000
+  },
+  "C": {
+   "min": 368000,
+   "real": 826000,
+   "high": 2010000
+  }
+ },
+ "tco": {
+  "A": {
+   "min": 2057400.0,
+   "real": 5049000.0,
+   "high": 12412400.0
+  },
+  "B": {
+   "min": 3021500.0000000005,
+   "real": 7000000.0,
+   "high": 16346500.0
+  },
+  "C": {
+   "min": 4663200.0,
+   "real": 10111920.0,
+   "high": 23076000.0
+  }
+ },
+ "path_A_quick_then_C": {
+  "min": 4977200.0,
+  "real": 10699920.0,
+  "high": 24326000.0
+ },
+ "roi": {
+  "A": {
+   "kons": {
+    "extra_orders_per_year": 8.4,
+    "gain_3y": 1411200.0,
+    "roi_3y": -0.6931506849315069,
+    "cpl_old": 18750.0,
+    "cpl_new": 17857.142857142855,
+    "ads_saving_per_year_if_leads_constant": 171428.57142857162
+   },
+   "alap": {
+    "extra_orders_per_year": 20.2,
+    "gain_3y": 4515840.0,
+    "roi_3y": -0.01808219178082192,
+    "cpl_old": 18750.0,
+    "cpl_new": 16741.071428571428,
+    "ads_saving_per_year_if_leads_constant": 385714.2857142859
+   },
+   "opt": {
+    "extra_orders_per_year": 33.6,
+    "gain_3y": 9408000.0,
+    "roi_3y": 1.0456621004566211,
+    "cpl_old": 18750.0,
+    "cpl_new": 15625.0,
+    "ads_saving_per_year_if_leads_constant": 599999.9999999999
+   },
+   "incremental_tco": 4599000.0,
+   "breakeven_orders_per_month": 1.5968749999999998
+  },
+  "B": {
+   "kons": {
+    "extra_orders_per_year": 13.4,
+    "gain_3y": 2016000.0,
+    "roi_3y": -0.6922137404580153,
+    "cpl_old": 18750.0,
+    "cpl_new": 17361.11111111111,
+    "ads_saving_per_year_if_leads_constant": 266666.66666666704
+   },
+   "alap": {
+    "extra_orders_per_year": 30.2,
+    "gain_3y": 6048000.0,
+    "roi_3y": -0.0766412213740458,
+    "cpl_old": 18750.0,
+    "cpl_new": 15889.830508474577,
+    "ads_saving_per_year_if_leads_constant": 549152.5423728811
+   },
+   "opt": {
+    "extra_orders_per_year": 50.4,
+    "gain_3y": 12600000.0,
+    "roi_3y": 0.9236641221374046,
+    "cpl_old": 18750.0,
+    "cpl_new": 14423.076923076922,
+    "ads_saving_per_year_if_leads_constant": 830769.230769231
+   },
+   "incremental_tco": 6550000.0,
+   "breakeven_orders_per_month": 2.2743055555555554
+  },
+  "C": {
+   "kons": {
+    "extra_orders_per_year": 16.8,
+    "gain_3y": 2368800.0,
+    "roi_3y": -0.7548313378707338,
+    "cpl_old": 18750.0,
+    "cpl_new": 17045.454545454544,
+    "ads_saving_per_year_if_leads_constant": 327272.7272727274
+   },
+   "alap": {
+    "extra_orders_per_year": 42.0,
+    "gain_3y": 7896000.0,
+    "roi_3y": -0.18277112623577924,
+    "cpl_old": 18750.0,
+    "cpl_new": 15000.0,
+    "ads_saving_per_year_if_leads_constant": 719999.9999999999
+   },
+   "opt": {
+    "extra_orders_per_year": 67.2,
+    "gain_3y": 15792000.0,
+    "roi_3y": 0.6344577475284415,
+    "cpl_old": 18750.0,
+    "cpl_new": 13392.857142857143,
+    "ads_saving_per_year_if_leads_constant": 1028571.4285714285
+   },
+   "incremental_tco": 9661920.0,
+   "breakeven_orders_per_month": 3.3548333333333336
+  }
+ },
+ "base_orders_per_year": 168.0,
+ "matrix": {
+  "A": {
+   "3y": 5.85,
+   "short": 7.2
+  },
+  "B": {
+   "3y": 5.8,
+   "short": 6.0
+  },
+  "C": {
+   "3y": 6.85,
+   "short": 5.75
+  }
+ },
+ "fixability_A": {
+  "a": 29,
+  "p": 13,
+  "v": 20
+ },
+ "fixability_count": 62,
+ "roi_sensitivity_alap": {
+  "20": {
+   "A": -51,
+   "B": -54,
+   "C": -59
+  },
+  "40": {
+   "A": -2,
+   "B": -8,
+   "C": -18
+  },
+  "80": {
+   "A": 96,
+   "B": 85,
+   "C": 63
+  }
+ }
+}

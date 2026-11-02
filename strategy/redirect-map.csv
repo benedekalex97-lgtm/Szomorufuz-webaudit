@@ -1,0 +1,122 @@
+regi_url,jelenlegi_statusz,muvelet,cel_url,indoklas
+/,200,megtart,/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/?mobile=1,200,301,/,Paraméteres duplikátum
+/?mobile=no,200,301,/,Paraméteres duplikátum (szabály: minden ?mobile=* → paraméter nélkül)
+/a-sz-f/,200,megtart,/a-sz-f/,Megtart – ÁSZF feltöltése
+/adatkezeles/,200,megtart,/adatkezeles/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/arajanlat-keres-itt/,200,megtart,/arajanlat-keres-itt/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/arajanlatkeres/,200,301,/arajanlat-keres-itt/,Duplikált ajánlatkérő oldal (azonos űrlap)
+/argarancia,200,301,/argarancia/,Perjel nélküli duplikátum
+/argarancia/,200,megtart,/argarancia/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/arlista/,404,301,/arak/,Hiányzó árlista (404); új ároldal
+/ceginformaciok/,200,megtart,/ceginformaciok/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/egyedi-kedvezmeny/,200,megtart,/egyedi-kedvezmeny/,"Megtart – noindex (remarketing-landoló), szöveg átírása"
+/elerhetoseg/,200,megtart,/elerhetoseg/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/elerhetoseg/+36305767206,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206/,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206/+36305767206,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206/+36305767206/,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206/+36305767206/+36305767206,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206/+36305767206/+36305767206/,200,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/elerhetoseg/+36305767206/+36305767206/+36305767206/+36305767206/+36305767206,404,301,/elerhetoseg/,URL-csapda (FUN-04); a hibás link törlése után 301 vagy 410
+/figyelem-/,200,megtart,/figyelem-/,Megtart – átírás („Mire figyeljen szolgáltatóválasztáskor?”)
+/fiumei-uti-temeto/,200,megtart,/fiumei-uti-temeto/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/gyakori-kerdesek/,200,megtart,/gyakori-kerdesek/,Megtart – tartalommal feltölteni (FAQ-séma)
+/hajos-emlekezes-napja/,200,megtart,/hajos-emlekezes-napja/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hamvak-hazavitele/,200,megtart,/hamvak-hazavitele/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hamvak-szorasa-dunaba/,200,megtart,/hamvak-szorasa-dunaba/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hamvak-szorasa-temeto/,200,megtart,/hamvak-szorasa-temeto/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hamvak-szorasa-templom/,404,301,/hamvak-temetese/,404; templomi elhelyezés a hamvak temetése oldalon kifejtve
+/hamvak-temetese/,200,megtart,/hamvak-temetese/,Megtart – title javítása (jelenleg „Hamvasztásos temetés”)
+/hamvasztas-menete/,200,megtart,/hamvasztas-menete/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hamvasztas-urnakiadas/,200,megtart,/hamvasztas-urnakiadas/,Megtart – keresési szándék elkülönítése a /hamvasztasos-temetes/ oldaltól (összevonás csak Search Console-adat alapján)
+/hamvasztasos-temetes/,200,megtart,/hamvasztasos-temetes/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hasznos-linkek/,200,megtart,/hasznos-linkek/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hirek-aktualitasok/,200,megtart,/hirek-aktualitasok/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/,200,megtart,/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/,200,megtart,/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/,200,megtart,/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/,200,megtart,/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/,200,megtart,/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/,200,megtart,/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/,200,megtart,/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/bajor-imre-temetese/30048/,200,megtart,/hirek-aktualitasok/bajor-imre-temetese/30048/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/,200,megtart,/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/,200,megtart,/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/,200,megtart,/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/,200,megtart,/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/,200,megtart,/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/,200,megtart,/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/,200,megtart,/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/,200,megtart,/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/,200,megtart,/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/,200,megtart,/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/,200,megtart,/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/,200,megtart,/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/,200,megtart,/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/,200,megtart,/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/,200,megtart,/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/,200,megtart,/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/mateszsz-taggyules/27899/,200,megtart,/hirek-aktualitasok/mateszsz-taggyules/27899/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/,200,megtart,/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/,200,megtart,/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/,200,megtart,/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/online-temetes-kozvetites/31817/,200,megtart,/hirek-aktualitasok/online-temetes-kozvetites/31817/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/,200,megtart,/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/,200,megtart,/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/,200,megtart,/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/temetkezesi-kultura/26254/,200,megtart,/hirek-aktualitasok/temetkezesi-kultura/26254/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/,200,megtart,/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/,200,megtart,/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/,200,megtart,/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/,Archív hír – URL marad; noindex csak backlink-ellenőrzés után
+/hirlevel-feliratkozas/,200,megtart,/hirlevel-feliratkozas/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogi-nyilatkozat/,200,megtart,/jogi-nyilatkozat/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/,200,megtart,/jogszabalyok/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/,200,megtart,/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/,200,megtart,/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/,200,megtart,/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/2005-evi-xxi-torveny/24180/,200,megtart,/jogszabalyok/2005-evi-xxi-torveny/24180/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/2013-evi-cxxxviii-torveny/24182/,200,megtart,/jogszabalyok/2013-evi-cxxxviii-torveny/24182/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/,200,megtart,/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/jogszabalyok/379-2013-x-25-korm-rendelet/24183/,200,megtart,/jogszabalyok/379-2013-x-25-korm-rendelet/24183/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/kegyeleti-webaruhaz/urna-13172/13172/,404,301,/urnak/,"404, régi webáruház-URL"
+/koporsok/,404,301,/koporsos-temetes/,"404, 16 belső hivatkozással"
+/koporsos-temetes/,200,megtart,/koporsos-temetes/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/munkalehetoseg/,200,megtart,/munkalehetoseg/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/online-kedvezmeny/,200,megtart,/online-kedvezmeny/,Megtart – noindex mérlegelendő
+/pages/avszomfuzbud/contents/rss/rss_article*125901.xml,200,301,/feed/,Régi RSS-fájl
+/polgari-bucsuztatas/,200,megtart,/polgari-bucsuztatas/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/ravatalozo-galeria/,200,megtart,/ravatalozo-galeria/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/ravatalozo-terem/,200,megtart,/ravatalozo-terem/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/rss/,200,301,/feed/,"RSS az új CMS feedjére (ha van hírfolyam), egyébként 410"
+/sirjelzo/,200,megtart,/sirjelzo/,"Megtart és bővít, vagy 301 → kegyeleti kellékek gyűjtőoldal"
+/szocialis-temetes/,200,megtart,/szocialis-temetes/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/szukseges-iratok/,200,megtart,/szukseges-iratok/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/tajekoztatas-keres/,200,megtart,/tajekoztatas-keres/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/teendok-halaleset-utan/,200,megtart,/teendok-halaleset-utan/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/temetkezesi-galeria/,200,megtart,/temetkezesi-galeria/,"Megtart és bővít, vagy 301 → /ravatalozo-galeria/"
+/temetkezesi-hirek/a-szocialis-temetesi-torveny-szovege/23495/,404,301,/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/,"404, régi hírútvonal"
+/temetkezesi-szolgaltata/,200,301,/,"Csonka slug, 22 szavas tartalom"
+/termek-adatlapok/,200,megtart,/termek-adatlapok/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/,200,megtart,/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/,200,megtart,/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/,200,megtart,/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/,200,megtart,/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/,200,megtart,/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/,200,megtart,/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/,200,megtart,/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/textiliak/,200,megtart,/textiliak/,"Megtart és bővít, vagy 301 → kegyeleti kellékek gyűjtőoldal"
+/torvenyek-rendeletek/,200,megtart,/torvenyek-rendeletek/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/urnak/,200,megtart,/urnak/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/uzenofal/,200,301,/visszajelzes-kuldese/,Üres vendégkönyv megszüntetése
+/visszajelzes-kuldese/,200,megtart,/visszajelzes-kuldese/,"Indexelendő oldal – azonos URL az új rendszerben, önhivatkozó https canonical"
+/arak/,,új,/arak/,Új ároldal (CNV-01)
+/irodak/,,új,/irodak/,Irodák gyűjtőoldal (SEO-10)
+/irodak/belvaros-izabella-utca/,,új,/irodak/belvaros-izabella-utca/,Irodaoldal
+/irodak/buda-nagyenyed-utca/,,új,/irodak/buda-nagyenyed-utca/,Irodaoldal
+/irodak/zuglo-thokoly-ut/,,új,/irodak/zuglo-thokoly-ut/,Irodaoldal
+/irodak/rakoskeresztur-pesti-ut/,,új,/irodak/rakoskeresztur-pesti-ut/,Irodaoldal
+/irodak/pesterzsebet-szivacs-utca/,,új,/irodak/pesterzsebet-szivacs-utca/,Irodaoldal
+/rolunk/,,új,/rolunk/,Bizalomépítő oldal (UX-06)

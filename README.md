@@ -84,3 +84,24 @@ python3 scripts/build_inventory.py
 - A forgalom TLS-bontó kimenő proxyn ment át: a tanúsítvány, a HTTP/2 és részben a biztonsági fejlécek nem vizsgálhatók megbízhatóan; a kapcsolatbontások egy része a proxyból is eredhet.
 - A Teendők oldal desktop Lighthouse-futása `NO_FCP` hibával leállt (headless környezet); a mobil futás sikeres.
 - Search Console, Google Cégprofil, analitika és hívásnapló nem volt elérhető, ezért a forgalmi és üzleti hatások becslések.
+
+---
+
+## Stratégiai és gazdaságossági elemzés (2. fázis)
+
+Döntés-előkészítő anyag az auditra építve – az audit dokumentumai változatlanok.
+
+👉 Kezdje itt: **[strategy/EXECUTIVE-DECISION.md](strategy/EXECUTIVE-DECISION.md)** (kétoldalas vezetői összefoglaló)
+
+| Fájl | Tartalom |
+|---|---|
+| [technology-assessment.md](strategy/technology-assessment.md) | Platformazonosítás (Oleander / honlap.hu), technikai adósság, a 62 hiba javíthatósága |
+| [scenario-comparison.md](strategy/scenario-comparison.md) | A / B / C forgatókönyv; WordPress, Astro, Next.js összevetése |
+| [cost-estimation.md](strategy/cost-estimation.md) | Egyszeri költségek (min / reális / magas), források és feltételezések |
+| [three-year-tco.md](strategy/three-year-tco.md) | Éves üzemeltetés, 3 és 5 éves TCO |
+| [roi-model.md](strategy/roi-model.md) | Hipotetikus megtérülési modell, fedezeti pont, érzékenység |
+| [seo-migration-plan.md](strategy/seo-migration-plan.md) + [redirect-map.csv](strategy/redirect-map.csv) | URL-megőrzés, 301, canonical, séma, tesztelés |
+| [decision-matrix.md](strategy/decision-matrix.md) | Súlyozott döntési mátrix, érzékenység |
+| [final-recommendation.md](strategy/final-recommendation.md) | Ajánlás, ismeretlenek, 30–60–90 napos terv |
+
+Modell: `python3 scripts/strategy_model.py` · URL-térkép: `python3 scripts/build_redirect_map.py`
