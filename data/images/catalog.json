@@ -1,0 +1,117 @@
+{
+ "files_referenced": 659,
+ "files_ok": 649,
+ "files_missing": [
+  "https://demo.paypal.com/img/merchantimages/lock.png",
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/pic.jpg",
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/tabs.gif",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/19/1427461502_200x.jpg",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/19/1433065839_200x.jpg",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383243971_600x500.jpg",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383243980_600x500.jpg",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383243983_600x500.jpg",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383244951_600x500.jpg",
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383247484_600x500.jpg"
+ ],
+ "unique_images": 423,
+ "duplicates": 226,
+ "dup_reasons": {
+  "méretváltozat (azonos fájlazonosító)": 210,
+  "közel-duplikátum (dHash ≤ 2)": 2,
+  "pontos duplikátum (MD5)": 10,
+  "közel-duplikátum (dHash)": 4
+ },
+ "by_category": {
+  "Dekorációk / sablongrafika": 84,
+  "Hír-illusztráció (archív)": 140,
+  "Szolgáltatások": 30,
+  "Termékek": 153,
+  "Ravatalozók": 8,
+  "Arculat": 6,
+  "Irodák": 2
+ },
+ "by_tier": {
+  "E – 300 px alatti (túl kicsi)": 94,
+  "C – csak kis méretben (≤ 600 px)": 121,
+  "D – csak bélyegképként": 206,
+  "n/a": 1,
+  "B – kártyához / tartalomba alkalmas": 1
+ },
+ "by_rights": {
+  "Platformszolgáltató (Oleander) tulajdona – ÁSZF 8.2 alapján a rendszeren kívül nem használható": 81,
+  "Harmadik fél (sajtó-/hírfotó, híresség, rajzfilm, más oldal képe) – NEM használható fel újra": 140,
+  "Nem igazolt – valószínű stockfotó; licenc (vásárlási bizonylat) szükséges": 19,
+  "Nem igazolt – eredet ismeretlen": 15,
+  "Harmadik fél: EXIF Copyright „www.judit-fotovideo.ro” – írásos engedély nélkül nem használható": 1,
+  "Nem igazolt – valószínű beszállítói katalógusfotó; beszállítói engedély szükséges": 125,
+  "Nem igazolt – valószínű saját/megrendelt fotó; szerző és felhasználási szerződés igazolandó": 39,
+  "Nem igazolt – márkajelzés (temetkezes.hu); a márkatulajdonos és a grafikus jogai tisztázandók": 2,
+  "Nem igazolt – valószínűleg ugyanaz a fotó, mint IMG-226 (© judit-fotovideo.ro)": 1
+ },
+ "by_action": {
+  "Nem migrálandó": 221,
+  "Cserélendő": 21,
+  "Törlendő": 10,
+  "Jog tisztázása vagy csere": 2,
+  "Megtartható termékkártyára": 124,
+  "Megtartható átmenetileg – újrafotózandó": 7,
+  "Újrafotózandó": 22,
+  "Ellenőrizendő: saját jármű?": 1,
+  "Megtartható átmenetileg": 7,
+  "Ellenőrizendő: hajós partner képe?": 1,
+  "Cserélendő (kicsi)": 3,
+  "Ellenőrizendő: krematórium saját képe?": 1,
+  "Ellenőrizendő: azonosítható személyek!": 1,
+  "Cserélendő – új logó / vektoros változat": 1,
+  "Törlendő a sliderből": 1
+ },
+ "by_format": {
+  "GIF": 56,
+  "PNG": 22,
+  "JPEG": 344,
+  "SVG": 1
+ },
+ "total_mb_all_files": 30.4,
+ "max_dimension": [
+  1052,
+  359,
+  "IMG-226"
+ ],
+ "tier_by_category": {
+  "Arculat": {
+   "E – 300 px alatti (túl kicsi)": 3,
+   "C – csak kis méretben (≤ 600 px)": 1,
+   "D – csak bélyegképként": 2
+  },
+  "Szolgáltatások": {
+   "D – csak bélyegképként": 7,
+   "E – 300 px alatti (túl kicsi)": 17,
+   "B – kártyához / tartalomba alkalmas": 1,
+   "C – csak kis méretben (≤ 600 px)": 5
+  },
+  "Ravatalozók": {
+   "D – csak bélyegképként": 2,
+   "C – csak kis méretben (≤ 600 px)": 5,
+   "E – 300 px alatti (túl kicsi)": 1
+  },
+  "Irodák": {
+   "C – csak kis méretben (≤ 600 px)": 2
+  },
+  "Termékek": {
+   "D – csak bélyegképként": 129,
+   "C – csak kis méretben (≤ 600 px)": 23,
+   "E – 300 px alatti (túl kicsi)": 1
+  },
+  "Dekorációk / sablongrafika": {
+   "E – 300 px alatti (túl kicsi)": 52,
+   "C – csak kis méretben (≤ 600 px)": 9,
+   "D – csak bélyegképként": 22,
+   "n/a": 1
+  },
+  "Hír-illusztráció (archív)": {
+   "D – csak bélyegképként": 44,
+   "C – csak kis méretben (≤ 600 px)": 76,
+   "E – 300 px alatti (túl kicsi)": 20
+  }
+ }
+}
