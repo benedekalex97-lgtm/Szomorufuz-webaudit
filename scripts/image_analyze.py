@@ -27,6 +27,16 @@ for u, d in gal['large'].items():
     e['pages'] = sorted(set(e['pages']) | {d['page']}); e['contexts'] = sorted(set(e['contexts']) | {'gallery-popup'})
     if d.get('title'): e['titles'] = sorted(set(e['titles']) | {d['title']})
 
+# Galéria-bélyegképek, amelyeknél a kattintás nem sikerült: a popup által használt
+# minta (<id>_pic_100x100.jpg -> <id>_pic_600x500.jpg) szerint levezetett URL.
+# A tényleges elérhetőséget a letöltés HTTP-státusza igazolja.
+for u in list(urls):
+    if '/contents/gallery/' in u and u.endswith('_pic_100x100.jpg'):
+        big = u.replace('_pic_100x100.jpg', '_pic_600x500.jpg')
+        if big not in urls:
+            urls[big] = {'pages': urls[u]['pages'], 'contexts': ['gallery-popup (levezetett)'],
+                         'alts': urls[u]['alts'], 'titles': urls[u]['titles']}
+
 
 def dhash(im, size=8):
     g = im.convert('L').resize((size + 1, size), Image.LANCZOS)

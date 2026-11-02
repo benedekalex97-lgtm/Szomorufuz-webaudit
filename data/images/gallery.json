@@ -1,0 +1,2046 @@
+{
+ "pages": {
+  "https://www.budapest-temetkezes.hu/": [
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279349', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_100x100.jpg",
+    "shown": [],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_bg.gif"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279350', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem, urna ravatal",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_100x100.jpg",
+    "shown": [],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279351', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem, urna ravatal",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_100x100.jpg",
+    "shown": [],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279352', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_100x100.jpg",
+    "shown": [],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '292409', 'Ravatalozó termek');",
+    "title": "",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_100x100.jpg",
+    "shown": [],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '292410', 'Ravatalozó termek');",
+    "title": "",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_100x100.jpg",
+    "shown": [],
+    "newly": []
+   }
+  ],
+  "https://www.budapest-temetkezes.hu/ravatalozo-galeria/": [
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279349', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_600x500.jpg",
+      "w": 432,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_bg.gif",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-loader.gif",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/design/global/icon16_close.gif",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-map.png",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_100x.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279350', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem, urna ravatal",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_600x500.jpg",
+      "w": 600,
+      "h": 449
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279351', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem, urna ravatal",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_600x500.jpg",
+      "w": 600,
+      "h": 400
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '279352', 'Ravatalozó termek');",
+    "title": "IX. kerületi kegyeleti terem",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_600x500.jpg",
+      "w": 600,
+      "h": 377
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '292409', 'Ravatalozó termek');",
+    "title": "",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_600x500.jpg",
+      "w": 600,
+      "h": 398
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/40/12405/', '12405', '292410', 'Ravatalozó termek');",
+    "title": "",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_600x500.jpg",
+      "w": 600,
+      "h": 398
+     }
+    ],
+    "newly": []
+   }
+  ],
+  "https://www.budapest-temetkezes.hu/sirjelzo/": [
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598956', 'Sírjelző');",
+    "title": "Urnakereszt árnyalt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_bg.gif",
+     "https://www.budapest-temetkezes.hu/design/global/icon16_close.gif",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-map.png",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-loader.gif",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598958_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_100x.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598957', 'Sírjelző');",
+    "title": "Art urnakereszt natúr",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598958', 'Sírjelző');",
+    "title": "Art urnakereszt barna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598958_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598958_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598959', 'Sírjelző');",
+    "title": "Art urnakereszt fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598960', 'Sírjelző');",
+    "title": "Art esővédős urnakereszt natúr",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598961', 'Sírjelző');",
+    "title": "Art esővédős urnakereszt barna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598962', 'Sírjelző');",
+    "title": "Art urnafejfa natúr",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598963', 'Sírjelző');",
+    "title": "Art urnafejfa barna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/75/37870/', '37870', '598964', 'Sírjelző');",
+    "title": "Art urnafejfa fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_600x500.jpg",
+      "w": 357,
+      "h": 500
+     }
+    ],
+    "newly": []
+   }
+  ],
+  "https://www.budapest-temetkezes.hu/textiliak/": [
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598965', 'Urnaterítők');",
+    "title": "Légcsipke 1 urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_600x500.jpg",
+      "w": 600,
+      "h": 449
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_bg.gif",
+     "https://www.budapest-temetkezes.hu/design/global/icon16_close.gif",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-map.png",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-loader.gif",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598966', 'Urnaterítők');",
+    "title": "Légcsipke 2 urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_600x500.jpg",
+      "w": 600,
+      "h": 449
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598967', 'Urnaterítők');",
+    "title": "Háló tüll fehér urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598968', 'Urnaterítők');",
+    "title": "Háló tüll beige urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598969', 'Urnaterítők');",
+    "title": "Háló tüll fekete urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598970', 'Urnaterítők');",
+    "title": "Márvány tüll fehér urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598971', 'Urnaterítők');",
+    "title": "Márvány tüll fekete urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598972', 'Urnaterítők');",
+    "title": "Jázmin fehér urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_600x500.jpg",
+      "w": 600,
+      "h": 454
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598973', 'Urnaterítők');",
+    "title": "Jázmin arany urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_600x500.jpg",
+      "w": 600,
+      "h": 455
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598974', 'Urnaterítők');",
+    "title": "Ovál organza urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_600x500.jpg",
+      "w": 600,
+      "h": 406
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598975', 'Urnaterítők');",
+    "title": "Nefelejcs fehér urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598976', 'Urnaterítők');",
+    "title": "Kehely arany urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598977', 'Urnaterítők');",
+    "title": "Kereszt arany urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37871/', '37871', '598978', 'Urnaterítők');",
+    "title": "Kereszt-liliom arany urnaterítő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_600x500.jpg",
+      "w": 600,
+      "h": 450
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598979', 'Urna leeresztők');",
+    "title": "Tüll fehér urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_600x500.jpg",
+      "w": 258,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598989_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598980', 'Urna leeresztők');",
+    "title": "Tüll fekete urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_600x500.jpg",
+      "w": 203,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598981', 'Urna leeresztők');",
+    "title": "Tüll hímzett kereszt fehér urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_600x500.jpg",
+      "w": 257,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598982', 'Urna leeresztők');",
+    "title": "Tüll hímzett kehely arany urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_600x500.jpg",
+      "w": 254,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598983', 'Urna leeresztők');",
+    "title": "Tüll hímzett nefelejcs arany urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_600x500.jpg",
+      "w": 258,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598985', 'Urna leeresztők');",
+    "title": "Tüll iker fehér urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_600x500.jpg",
+      "w": 202,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598986', 'Urna leeresztők');",
+    "title": "Tüll iker fekete urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_600x500.jpg",
+      "w": 249,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598987', 'Urna leeresztők');",
+    "title": "Szalag urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_600x500.jpg",
+      "w": 258,
+      "h": 500
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598988', 'Urna leeresztők');",
+    "title": "Szalag kereszt urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_600x500.jpg",
+      "w": 258,
+      "h": 500
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/76/37872/', '37872', '598989', 'Urna leeresztők');",
+    "title": "Szalag nefelejcs urna leeresztő",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598989_pic_100x100.jpg",
+    "shown": [],
+    "newly": []
+   }
+  ],
+  "https://www.budapest-temetkezes.hu/urnak/": [
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598648', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko galamb",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_bg.gif",
+     "https://www.budapest-temetkezes.hu/design/global/icon16_close.gif",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-map.png",
+     "https://www.budapest-temetkezes.hu/common/jquery/galleria/classic/classic-loader.gif",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598651_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598649', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko horgony",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598651', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko kék horgony",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598651_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598651_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598647', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko kék kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598954', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598657', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko magnólia",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598652', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko mogyoró fűz",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598650', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko mogyoró kála",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598654', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko mogyoró kehely",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598653', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko mogyoró kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598955', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko párna föld",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_600x500.jpg",
+      "w": 600,
+      "h": 437
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598655', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko párna kagyló",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_600x500.jpg",
+      "w": 600,
+      "h": 354
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11232/', '11232', '598656', 'Lebomló díszurnák vízi temetéshez');",
+    "title": "Öko párna levél",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_600x500.jpg",
+      "w": 600,
+      "h": 383
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11231/', '11231', '598658', 'Fa díszurnák');",
+    "title": "Z-011/Fa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598658_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_600x500.jpg",
+      "w": 600,
+      "h": 383
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11231/', '11231', '598659', 'Fa díszurnák');",
+    "title": "Z-011/Kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_600x500.jpg",
+      "w": 456,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598658_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11239/', '11239', '598664', 'Mini emlékurnák');",
+    "title": "Pr 1 bronz",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598666_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_100x.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11239/', '11239', '598666', 'Mini emlékurnák');",
+    "title": "Pr 2 metszett",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598666_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598666_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11239/', '11239', '598661', 'Mini emlékurnák');",
+    "title": "Pr 3 gyöngyház arany",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/11239/', '11239', '598665', 'Mini emlékurnák');",
+    "title": "Pr 4 gyöngyház ezüst",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_600x500.jpg",
+      "w": 400,
+      "h": 500
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37862/', '37862', '598667', 'Urnakoporsó');",
+    "title": "Koporsó alakú urna dió",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_600x500.jpg",
+      "w": 600,
+      "h": 345
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_600x500.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37862/', '37862', '598668', 'Urnakoporsó');",
+    "title": "Koporsó alakú mahagóni",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_600x500.jpg",
+      "w": 600,
+      "h": 320
+     }
+    ],
+    "newly": []
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598948', 'Kerámia urnák');",
+    "title": "Agapé fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598948_pic_100x100.jpg",
+    "shown": [],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598915_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598914_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598883_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598918_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598886_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598888_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598916_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598884_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598885_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598887_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598890_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598889_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598891_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598893_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598894_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598858_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598859_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598860_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598852_pic_100x.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598947', 'Kerámia urnák');",
+    "title": "Agapé fekete urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598947_pic_100x100.jpg",
+    "shown": [
+     {
+      "src": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598948_pic_600x500.jpg",
+      "w": 531,
+      "h": 500
+     }
+    ],
+    "newly": [
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598867_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598868_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598866_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598952_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598953_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598927_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598855_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598930_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598854_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598851_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598853_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598856_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598901_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598929_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598857_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598869_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598874_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598872_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598871_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598903_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598873_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598907_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598905_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598904_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598906_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598908_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598909_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598912_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598913_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598876_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598911_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598910_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598878_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598931_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598877_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598898_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598900_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598948_pic_600x500.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598947_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598948_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598880_pic_100x.jpg",
+     "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598919_pic_100x.jpg"
+    ]
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598880', 'Kerámia urnák');",
+    "title": "Alba kereszt urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598880_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598919', 'Kerámia urnák');",
+    "title": "Angyal urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598919_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598949', 'Kerámia urnák');",
+    "title": "Angyal fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598949_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598882', 'Kerámia urnák');",
+    "title": "Araxes aranyozott fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598882_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598914', 'Kerámia urnák');",
+    "title": "Atlasz kála fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598914_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598915', 'Kerámia urnák');",
+    "title": "Atlasz kála gránit urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598915_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598883', 'Kerámia urnák');",
+    "title": "Bell bronz antracit urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598883_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598884', 'Kerámia urnák');",
+    "title": "Bell gomb fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598884_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598918', 'Kerámia urnák');",
+    "title": "Bell kereszt fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598918_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598885', 'Kerámia urnák');",
+    "title": "Bell rusztik fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598885_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598888', 'Kerámia urnák');",
+    "title": "Bell rusztik mályva urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598888_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598886', 'Kerámia urnák');",
+    "title": "Bell rusztik grafit urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598886_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598916', 'Kerámia urnák');",
+    "title": "Bell szív fehér urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598916_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598887', 'Kerámia urnák');",
+    "title": "Bell tenger zöld urna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598887_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598890', 'Kerámia urnák');",
+    "title": "Bora rózsa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598890_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598889', 'Kerámia urnák');",
+    "title": "Borostyán aranyozott ekrü",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598889_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598891', 'Kerámia urnák');",
+    "title": "Borostyán aranyozott fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598891_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598893', 'Kerámia urnák');",
+    "title": "Borostyán aranyozott kereszt fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598893_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598894', 'Kerámia urnák');",
+    "title": "Borostyán kontúrozott kereszt fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598894_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598858', 'Kerámia urnák');",
+    "title": "Dráva bronz kehely",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598858_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598859', 'Kerámia urnák');",
+    "title": "Dráva bronz kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598859_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598860', 'Kerámia urnák');",
+    "title": "Dráva bronz rózsa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598860_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598852', 'Kerámia urnák');",
+    "title": "Dráva fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598852_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598892', 'Kerámia urnák');",
+    "title": "Dráva kehely",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598892_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598895', 'Kerámia urnák');",
+    "title": "Dráva kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598895_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598897', 'Kerámia urnák');",
+    "title": "Dráva rózsa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598897_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598850', 'Kerámia urnák');",
+    "title": "Dráva matt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598850_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598917', 'Kerámia urnák');",
+    "title": "Futórózsa aranyozott ekrü",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598917_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598920', 'Kerámia urnák');",
+    "title": "Futórózsa aranyozott fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598920_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598861', 'Kerámia urnák');",
+    "title": "Fűz fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598861_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598921', 'Kerámia urnák');",
+    "title": "Fehér galamb",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598921_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598925', 'Kerámia urnák');",
+    "title": "Gyémánt gyöngyház",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598925_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598923', 'Kerámia urnák');",
+    "title": "Gyöngy",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598923_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598924', 'Kerámia urnák');",
+    "title": "Kápolna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598924_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598864', 'Kerámia urnák');",
+    "title": "Katedrál aranyozott kehely fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598864_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598863', 'Kerámia urnák');",
+    "title": "Katedrál aranyozott kereszt fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598863_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598865', 'Kerámia urnák');",
+    "title": "Katedrál aranyozott virág fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598865_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598951', 'Kerámia urnák');",
+    "title": "Kereszt liliom fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598951_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598950', 'Kerámia urnák');",
+    "title": "Kereszt liliom fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598950_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598866', 'Kerámia urnák');",
+    "title": "Könnycsepp ezüst",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598866_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598868', 'Kerámia urnák');",
+    "title": "Leander",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598868_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598867', 'Kerámia urnák');",
+    "title": "Leander fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598867_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598952', 'Kerámia urnák');",
+    "title": "Leander fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598952_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598953', 'Kerámia urnák');",
+    "title": "Leander ekrü",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598953_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598927', 'Kerámia urnák');",
+    "title": "Meotisz fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598927_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598930', 'Kerámia urnák');",
+    "title": "Meotisz fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598930_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598855', 'Kerámia urnák');",
+    "title": "Opusz aranyozott kehely fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598855_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598854', 'Kerámia urnák');",
+    "title": "Opusz aranyozott kehely fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598854_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598851', 'Kerámia urnák');",
+    "title": "",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598851_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598853', 'Kerámia urnák');",
+    "title": "Opusz aranyozott kereszt fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598853_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598856', 'Kerámia urnák');",
+    "title": "Opusz aranyozott virág fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598856_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598901', 'Kerámia urnák');",
+    "title": "Oxus aranyozott fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598901_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598929', 'Kerámia urnák');",
+    "title": "Oxus aranyozott fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598929_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598857', 'Kerámia urnák');",
+    "title": "Salvio ekrü",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598857_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598869', 'Kerámia urnák');",
+    "title": "Salvio fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598869_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598874', 'Kerámia urnák');",
+    "title": "Rózsa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598874_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598872', 'Kerámia urnák');",
+    "title": "Szikla grey",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598872_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598871', 'Kerámia urnák');",
+    "title": "Szikla kereszt fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598871_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598903', 'Kerámia urnák');",
+    "title": "Szikla kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598903_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598873', 'Kerámia urnák');",
+    "title": "Szikla szív fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598873_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598907', 'Kerámia urnák');",
+    "title": "Szív szürke",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598907_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598904', 'Kerámia urnák');",
+    "title": "Szív barna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598904_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598905', 'Kerámia urnák');",
+    "title": "Szív fekete",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598905_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598906', 'Kerámia urnák');",
+    "title": "Szív fekvő bordó",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598906_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598908', 'Kerámia urnák');",
+    "title": "Terra angyal",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598908_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598909', 'Kerámia urnák');",
+    "title": "Terra ima",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598909_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598912', 'Kerámia urnák');",
+    "title": "Terra kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598912_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598913', 'Kerámia urnák');",
+    "title": "Terra rózsa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598913_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598910', 'Kerámia urnák');",
+    "title": "Tisza kála aranyozott ekrü",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598910_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598911', 'Kerámia urnák');",
+    "title": "Tisza kála aranyozott fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598911_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598876', 'Kerámia urnák');",
+    "title": "Torda kála",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598876_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598878', 'Kerámia urnák');",
+    "title": "Torda kereszt",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598878_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598931', 'Kerámia urnák');",
+    "title": "Torda pipacs",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598931_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598877', 'Kerámia urnák');",
+    "title": "Torda szív",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598877_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598898', 'Kerámia urnák');",
+    "title": "Zeusz kála barna",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598898_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37868/', '37868', '598900', 'Kerámia urnák');",
+    "title": "Zeusz kereszt fehér",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598900_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598932', 'Fém urnák');",
+    "title": "Alto kereszt antracit",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598932_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598934', 'Fém urnák');",
+    "title": "Alto kereszt arany",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598934_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598935', 'Fém urnák');",
+    "title": "Alto kereszt arany virág",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598935_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598933', 'Fém urnák');",
+    "title": "Fatum alkony",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598933_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598936', 'Fém urnák');",
+    "title": "Fatum fa",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598936_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598937', 'Fém urnák');",
+    "title": "Fatum pad",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598937_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598943', 'Fém urnák');",
+    "title": "Fatum vízpart",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598943_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598938', 'Fém urnák');",
+    "title": "Meteo kereszt antracit",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598938_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598940', 'Fém urnák');",
+    "title": "Meteo virág antracit",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598940_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598939', 'Fém urnák');",
+    "title": "Meteo rózsa arany",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598939_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598941', 'Fém urnák');",
+    "title": "Pr 1 bronz",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598941_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598944', 'Fém urnák');",
+    "title": "Pr 2 metszett",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598944_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598946', 'Fém urnák');",
+    "title": "Pr 3 gyöngyház arany",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598946_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   },
+   {
+    "onclick": "xajax_popupGallery('pages/avszomfuzbud/contents/gallery/14/37869/', '37869', '598945', 'Fém urnák');",
+    "title": "Pr 4 gyöngyház ezüst",
+    "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598945_pic_100x100.jpg",
+    "error": "TimeoutError: elementHandle.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × w"
+   }
+  ]
+ },
+ "large": {
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_600x500.jpg": {
+   "w": 432,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+   "title": "IX. kerületi kegyeleti terem",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_600x500.jpg": {
+   "w": 600,
+   "h": 449,
+   "page": "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+   "title": "IX. kerületi kegyeleti terem, urna ravatal",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_600x500.jpg": {
+   "w": 600,
+   "h": 400,
+   "page": "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+   "title": "IX. kerületi kegyeleti terem, urna ravatal",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_600x500.jpg": {
+   "w": 600,
+   "h": 377,
+   "page": "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+   "title": "IX. kerületi kegyeleti terem",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_600x500.jpg": {
+   "w": 600,
+   "h": 398,
+   "page": "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+   "title": "",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_600x500.jpg": {
+   "w": 600,
+   "h": 398,
+   "page": "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+   "title": "",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Urnakereszt árnyalt",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art urnakereszt natúr",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598958_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art urnakereszt barna",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598958_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art urnakereszt fehér",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art esővédős urnakereszt natúr",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art esővédős urnakereszt barna",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art urnafejfa natúr",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art urnafejfa barna",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_600x500.jpg": {
+   "w": 357,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/sirjelzo/",
+   "title": "Art urnafejfa fehér",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_600x500.jpg": {
+   "w": 600,
+   "h": 449,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Légcsipke 1 urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_600x500.jpg": {
+   "w": 600,
+   "h": 449,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Légcsipke 2 urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Háló tüll fehér urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Háló tüll beige urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Háló tüll fekete urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Márvány tüll fehér urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Márvány tüll fekete urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_600x500.jpg": {
+   "w": 600,
+   "h": 454,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Jázmin fehér urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_600x500.jpg": {
+   "w": 600,
+   "h": 455,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Jázmin arany urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_600x500.jpg": {
+   "w": 600,
+   "h": 406,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Ovál organza urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Nefelejcs fehér urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Kehely arany urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Kereszt arany urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_600x500.jpg": {
+   "w": 600,
+   "h": 450,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Kereszt-liliom arany urnaterítő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_600x500.jpg": {
+   "w": 258,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll fehér urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_600x500.jpg": {
+   "w": 203,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll fekete urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_600x500.jpg": {
+   "w": 257,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll hímzett kereszt fehér urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_600x500.jpg": {
+   "w": 254,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll hímzett kehely arany urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_600x500.jpg": {
+   "w": 258,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll hímzett nefelejcs arany urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_600x500.jpg": {
+   "w": 202,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll iker fehér urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_600x500.jpg": {
+   "w": 249,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Tüll iker fekete urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_600x500.jpg": {
+   "w": 258,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Szalag urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_600x500.jpg": {
+   "w": 258,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/textiliak/",
+   "title": "Szalag kereszt urna leeresztő",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko galamb",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko horgony",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598651_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko kék horgony",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598651_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko kék kereszt",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko kereszt",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko magnólia",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko mogyoró fűz",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko mogyoró kála",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko mogyoró kehely",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko mogyoró kereszt",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_600x500.jpg": {
+   "w": 600,
+   "h": 437,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko párna föld",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_600x500.jpg": {
+   "w": 600,
+   "h": 354,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Öko párna kagyló",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_600x500.jpg": {
+   "w": 600,
+   "h": 383,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Z-011/Fa",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598658_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_600x500.jpg": {
+   "w": 456,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Z-011/Kereszt",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Pr 1 bronz",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598666_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Pr 2 metszett",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598666_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Pr 3 gyöngyház arany",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_600x500.jpg": {
+   "w": 400,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Pr 4 gyöngyház ezüst",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_600x500.jpg": {
+   "w": 600,
+   "h": 345,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Koporsó alakú urna dió",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_600x500.jpg": {
+   "w": 600,
+   "h": 320,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Koporsó alakú mahagóni",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_100x100.jpg"
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598948_pic_600x500.jpg": {
+   "w": 531,
+   "h": 500,
+   "page": "https://www.budapest-temetkezes.hu/urnak/",
+   "title": "Agapé fekete urna",
+   "thumb": "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598947_pic_100x100.jpg"
+  }
+ }
+}
