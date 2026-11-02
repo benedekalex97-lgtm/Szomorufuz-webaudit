@@ -1,0 +1,124 @@
+{
+ "menuToggleFound": 1,
+ "menuToggle": {
+  "tag": "A",
+  "role": null,
+  "aria": null,
+  "href": "javascript:void(0)",
+  "html": "<a onclick=\"$('#mobile_menu').slideToggle(); $('#ds_search, #mobile_lang').hide();\" id=\"m_menu\" href=\"javascript:void(0)\" title=\"Menü\">Menü</a>"
+ },
+ "menuItemsVisible": [
+  "Menü",
+  "Hamvasztásos temetés",
+  "Koporsós temetés",
+  "Árajánlat kérés - itt!",
+  "Elérhetőség",
+  "Kezdőoldal",
+  "Teendők haláleset után",
+  "Hamvasztás urnakiadás",
+  "Hamvak hazavitele",
+  "Hamvasztás menete",
+  "Ravatalozó terem",
+  "Hamvak szórása - temető",
+  "Hamvak szórása Dunába",
+  "Hamvak temetése",
+  "Árajánlatkérés",
+  "Fiumei úti temető",
+  "Elfogadom"
+ ],
+ "cookieBanner": {
+  "heightPx": 328,
+  "viewportShare": "39%",
+  "marketingPrechecked": true,
+  "hasRejectButton": false
+ },
+ "quoteForm": {
+  "topPx": 1615,
+  "heightPx": 2201,
+  "inputCount": 37,
+  "requiredAttr": 0,
+  "emailTypeFields": 0,
+  "telTypeFields": 0,
+  "autocompleteSet": 0,
+  "starMarkers": 10,
+  "submitText": null,
+  "labelSample": [
+   "Hamvasztásos",
+   "Koporsós",
+   "Budapesten¸ temetőben",
+   "Budapesten¸ altemplomban",
+   "Vidéken¸ temetőben",
+   "Haza kívánom vinni a hamvakat",
+   "Egyéb helyen",
+   "Igen, már van sírhely",
+   "Nem, új sírhelyet vásárolok",
+   "Nincs rá szükség, szórást választok",
+   "Nem tudom",
+   "Urnafülke",
+   "Urnasír",
+   "Urnakripta",
+   "Meglévő koporsós sírhely",
+   "Sírbolt (kripta)",
+   "Kórházban",
+   "Lakáson",
+   "Külföldön",
+   "Igazságügyi intézményben",
+   "Temetőben",
+   "Temetkezési cég halottasházában",
+   "E-mailben küldjék el",
+   "Telefonon visszahívást kérek",
+   "Az adatkezelési tájékoztató tartalmát megismertem és elfogadom"
+  ]
+ },
+ "keyboardFocus": [
+  {
+   "tag": "A",
+   "text": "Szomorúfűz Temetkezés Budapest",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  },
+  {
+   "tag": "A",
+   "text": "Hamvasztásos temetés",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  },
+  {
+   "tag": "A",
+   "text": "Koporsós temetés",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  },
+  {
+   "tag": "A",
+   "text": "Árajánlat kérés - itt!",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  },
+  {
+   "tag": "A",
+   "text": "Elérhetőség",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  },
+  {
+   "tag": "A",
+   "text": "További információ",
+   "outline": "none 3px",
+   "boxShadow": "rgb(0, 0, 0) 0px 0px 2px 0px"
+  },
+  {
+   "tag": "A",
+   "text": "",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  },
+  {
+   "tag": "A",
+   "text": "",
+   "outline": "none 3px",
+   "boxShadow": "none"
+  }
+ ],
+ "skipLink": false
+}

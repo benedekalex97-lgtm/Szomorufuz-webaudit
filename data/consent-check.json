@@ -1,0 +1,16 @@
+{
+ "title": "Temetkezés Hamvasztás Temetés - Szomorúfűz Temetkezés Budapest",
+ "totalRequests": 72,
+ "bannerVisible": true,
+ "thirdPartyRequestsBeforeConsent": [
+  "http://www.googleadservices.com/pagead/conversion.js",
+  "https://static.xx.fbcdn.net/rsrc.php/v5/yQ/l/0,cross/TBAmH8s46M1.css",
+  "https://static.xx.fbcdn.net/rsrc.php/v5/y9/l/0,cross/GsVO4I5Yi7Y.css"
+ ],
+ "cookiesBeforeConsent": [
+  "www.budapest-temetkezes.hu PHPSESSID"
+ ],
+ "consentCommands": [
+  "[\"consent\",\"default\",{\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\",\"analytics_storage\":\"denied\"}]"
+ ]
+}
