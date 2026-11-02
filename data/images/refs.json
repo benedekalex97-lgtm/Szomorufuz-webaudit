@@ -1,0 +1,6090 @@
+{
+ "pages_scanned": 96,
+ "css_files": [
+  "https://www.budapest-temetkezes.hu/common/uploadifive/uploadifive.css?ts=1610438365",
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/design.css?ts=1458813652",
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/style.css?ts=1527500392",
+  "https://www.budapest-temetkezes.hu/design/flexslider.css?ts=1528805451",
+  "https://www.budapest-temetkezes.hu/design/font-awesome/css/font-awesome.min.css?ts=1529920392",
+  "https://www.budapest-temetkezes.hu/design/index.css?ts=1687126106",
+  "https://www.budapest-temetkezes.hu/design/smoothness/jquery_datepicker.css?ts=1369818094",
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/desing/style/addcss.css?ts=1673629691"
+ ],
+ "gallery_pages": {
+  "https://www.budapest-temetkezes.hu/": 6,
+  "https://www.budapest-temetkezes.hu/ravatalozo-galeria/": 6,
+  "https://www.budapest-temetkezes.hu/sirjelzo/": 9,
+  "https://www.budapest-temetkezes.hu/textiliak/": 24,
+  "https://www.budapest-temetkezes.hu/urnak/": 113
+ },
+ "refs": {
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/style/slide/404_slide_header.jpg?ts=1361737102": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/a-sz-f/",
+    "https://www.budapest-temetkezes.hu/adatkezeles/",
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/",
+    "https://www.budapest-temetkezes.hu/arajanlatkeres/",
+    "https://www.budapest-temetkezes.hu/argarancia/",
+    "https://www.budapest-temetkezes.hu/ceginformaciok/",
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/elerhetoseg/",
+    "https://www.budapest-temetkezes.hu/figyelem-/",
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/",
+    "https://www.budapest-temetkezes.hu/gyakori-kerdesek/",
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/",
+    "https://www.budapest-temetkezes.hu/hamvak-hazavitele/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/",
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/",
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/",
+    "https://www.budapest-temetkezes.hu/hasznos-linkek/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/",
+    "https://www.budapest-temetkezes.hu/hirlevel-feliratkozas/",
+    "https://www.budapest-temetkezes.hu/jogi-nyilatkozat/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2005-evi-xxi-torveny/24180/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2013-evi-cxxxviii-torveny/24182/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/379-2013-x-25-korm-rendelet/24183/",
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/",
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/",
+    "https://www.budapest-temetkezes.hu/online-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/",
+    "https://www.budapest-temetkezes.hu/rss/",
+    "https://www.budapest-temetkezes.hu/sirjelzo/",
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/",
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/",
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/",
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-galeria/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-szolgaltata/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/",
+    "https://www.budapest-temetkezes.hu/textiliak/",
+    "https://www.budapest-temetkezes.hu/torvenyek-rendeletek/",
+    "https://www.budapest-temetkezes.hu/urnak/",
+    "https://www.budapest-temetkezes.hu/uzenofal/",
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "temetkezes.hu logo"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/style/slide/400_slide_header.jpg?ts=1769006560": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/a-sz-f/",
+    "https://www.budapest-temetkezes.hu/adatkezeles/",
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/",
+    "https://www.budapest-temetkezes.hu/arajanlatkeres/",
+    "https://www.budapest-temetkezes.hu/argarancia/",
+    "https://www.budapest-temetkezes.hu/ceginformaciok/",
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/elerhetoseg/",
+    "https://www.budapest-temetkezes.hu/figyelem-/",
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/",
+    "https://www.budapest-temetkezes.hu/gyakori-kerdesek/",
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/",
+    "https://www.budapest-temetkezes.hu/hamvak-hazavitele/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/",
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/",
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/",
+    "https://www.budapest-temetkezes.hu/hasznos-linkek/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/",
+    "https://www.budapest-temetkezes.hu/hirlevel-feliratkozas/",
+    "https://www.budapest-temetkezes.hu/jogi-nyilatkozat/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2005-evi-xxi-torveny/24180/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2013-evi-cxxxviii-torveny/24182/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/379-2013-x-25-korm-rendelet/24183/",
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/",
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/",
+    "https://www.budapest-temetkezes.hu/online-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/",
+    "https://www.budapest-temetkezes.hu/rss/",
+    "https://www.budapest-temetkezes.hu/sirjelzo/",
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/",
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/",
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/",
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-galeria/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-szolgaltata/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/",
+    "https://www.budapest-temetkezes.hu/textiliak/",
+    "https://www.budapest-temetkezes.hu/torvenyek-rendeletek/",
+    "https://www.budapest-temetkezes.hu/urnak/",
+    "https://www.budapest-temetkezes.hu/uzenofal/",
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Hamvasztás"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/style/slide/7219_slide_header.jpg?ts=1769006573": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/a-sz-f/",
+    "https://www.budapest-temetkezes.hu/adatkezeles/",
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/",
+    "https://www.budapest-temetkezes.hu/arajanlatkeres/",
+    "https://www.budapest-temetkezes.hu/argarancia/",
+    "https://www.budapest-temetkezes.hu/ceginformaciok/",
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/elerhetoseg/",
+    "https://www.budapest-temetkezes.hu/figyelem-/",
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/",
+    "https://www.budapest-temetkezes.hu/gyakori-kerdesek/",
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/",
+    "https://www.budapest-temetkezes.hu/hamvak-hazavitele/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/",
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/",
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/",
+    "https://www.budapest-temetkezes.hu/hasznos-linkek/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/",
+    "https://www.budapest-temetkezes.hu/hirlevel-feliratkozas/",
+    "https://www.budapest-temetkezes.hu/jogi-nyilatkozat/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2005-evi-xxi-torveny/24180/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2013-evi-cxxxviii-torveny/24182/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/379-2013-x-25-korm-rendelet/24183/",
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/",
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/",
+    "https://www.budapest-temetkezes.hu/online-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/",
+    "https://www.budapest-temetkezes.hu/rss/",
+    "https://www.budapest-temetkezes.hu/sirjelzo/",
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/",
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/",
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/",
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-galeria/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-szolgaltata/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/",
+    "https://www.budapest-temetkezes.hu/textiliak/",
+    "https://www.budapest-temetkezes.hu/torvenyek-rendeletek/",
+    "https://www.budapest-temetkezes.hu/urnak/",
+    "https://www.budapest-temetkezes.hu/uzenofal/",
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Hajós temetés"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/style/slide/402_slide_header.jpg?ts=1769006584": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/a-sz-f/",
+    "https://www.budapest-temetkezes.hu/adatkezeles/",
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/",
+    "https://www.budapest-temetkezes.hu/arajanlatkeres/",
+    "https://www.budapest-temetkezes.hu/argarancia/",
+    "https://www.budapest-temetkezes.hu/ceginformaciok/",
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/elerhetoseg/",
+    "https://www.budapest-temetkezes.hu/figyelem-/",
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/",
+    "https://www.budapest-temetkezes.hu/gyakori-kerdesek/",
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/",
+    "https://www.budapest-temetkezes.hu/hamvak-hazavitele/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/",
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/",
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/",
+    "https://www.budapest-temetkezes.hu/hasznos-linkek/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/",
+    "https://www.budapest-temetkezes.hu/hirlevel-feliratkozas/",
+    "https://www.budapest-temetkezes.hu/jogi-nyilatkozat/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2005-evi-xxi-torveny/24180/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2013-evi-cxxxviii-torveny/24182/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/379-2013-x-25-korm-rendelet/24183/",
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/",
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/",
+    "https://www.budapest-temetkezes.hu/online-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/",
+    "https://www.budapest-temetkezes.hu/rss/",
+    "https://www.budapest-temetkezes.hu/sirjelzo/",
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/",
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/",
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/",
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-galeria/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-szolgaltata/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/",
+    "https://www.budapest-temetkezes.hu/textiliak/",
+    "https://www.budapest-temetkezes.hu/torvenyek-rendeletek/",
+    "https://www.budapest-temetkezes.hu/urnak/",
+    "https://www.budapest-temetkezes.hu/uzenofal/",
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Hamvasztás + temetői szórás"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/style/slide/405_slide_header.jpg?ts=1769006592": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/a-sz-f/",
+    "https://www.budapest-temetkezes.hu/adatkezeles/",
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/",
+    "https://www.budapest-temetkezes.hu/arajanlatkeres/",
+    "https://www.budapest-temetkezes.hu/argarancia/",
+    "https://www.budapest-temetkezes.hu/ceginformaciok/",
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/elerhetoseg/",
+    "https://www.budapest-temetkezes.hu/figyelem-/",
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/",
+    "https://www.budapest-temetkezes.hu/gyakori-kerdesek/",
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/",
+    "https://www.budapest-temetkezes.hu/hamvak-hazavitele/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/",
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/",
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/",
+    "https://www.budapest-temetkezes.hu/hasznos-linkek/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/",
+    "https://www.budapest-temetkezes.hu/hirlevel-feliratkozas/",
+    "https://www.budapest-temetkezes.hu/jogi-nyilatkozat/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2005-evi-xxi-torveny/24180/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2013-evi-cxxxviii-torveny/24182/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/379-2013-x-25-korm-rendelet/24183/",
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/",
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/",
+    "https://www.budapest-temetkezes.hu/online-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/",
+    "https://www.budapest-temetkezes.hu/rss/",
+    "https://www.budapest-temetkezes.hu/sirjelzo/",
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/",
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/",
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/",
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-galeria/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-szolgaltata/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/",
+    "https://www.budapest-temetkezes.hu/textiliak/",
+    "https://www.budapest-temetkezes.hu/torvenyek-rendeletek/",
+    "https://www.budapest-temetkezes.hu/urnak/",
+    "https://www.budapest-temetkezes.hu/uzenofal/",
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Koporsós temetés"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/startpage/1353162436_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/startpage/1375693732_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279349_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "IX. kerületi kegyeleti terem"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279350_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "IX. kerületi kegyeleti terem, urna ravatal"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279351_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "IX. kerületi kegyeleti terem, urna ravatal"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/279352_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "IX. kerületi kegyeleti terem"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292409_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Ravatalozó termek"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/40/12405/292410_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Ravatalozó termek"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/style/header.jpg?ts=1328946499": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/",
+    "https://www.budapest-temetkezes.hu/a-sz-f/",
+    "https://www.budapest-temetkezes.hu/adatkezeles/",
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/",
+    "https://www.budapest-temetkezes.hu/arajanlatkeres/",
+    "https://www.budapest-temetkezes.hu/argarancia/",
+    "https://www.budapest-temetkezes.hu/ceginformaciok/",
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/elerhetoseg/",
+    "https://www.budapest-temetkezes.hu/figyelem-/",
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/",
+    "https://www.budapest-temetkezes.hu/gyakori-kerdesek/",
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/",
+    "https://www.budapest-temetkezes.hu/hamvak-hazavitele/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/",
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/",
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/",
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/",
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/",
+    "https://www.budapest-temetkezes.hu/hasznos-linkek/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/",
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/",
+    "https://www.budapest-temetkezes.hu/hirlevel-feliratkozas/",
+    "https://www.budapest-temetkezes.hu/jogi-nyilatkozat/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/145-1999-x-1-korm-rendelet-a-temetokrol-es-a-temetkezesrol/24178/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/146-1999-x-1-korm-rendelet-a-nemzeti-kegyeleti-bizottsag-szervezeterol/24179/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/1999-evi-xliii-torveny-a-temetokrol-es-a-temetkezesrol/24177/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2005-evi-xxi-torveny/24180/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/2013-evi-cxxxviii-torveny/24182/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/34-1999-ix-24-bm-eum-im-egyuttes-rendelet/24181/",
+    "https://www.budapest-temetkezes.hu/jogszabalyok/379-2013-x-25-korm-rendelet/24183/",
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/",
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/",
+    "https://www.budapest-temetkezes.hu/online-kedvezmeny/",
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-galeria/",
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/",
+    "https://www.budapest-temetkezes.hu/rss/",
+    "https://www.budapest-temetkezes.hu/sirjelzo/",
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/",
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/",
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/",
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-galeria/",
+    "https://www.budapest-temetkezes.hu/temetkezesi-szolgaltata/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/",
+    "https://www.budapest-temetkezes.hu/textiliak/",
+    "https://www.budapest-temetkezes.hu/torvenyek-rendeletek/",
+    "https://www.budapest-temetkezes.hu/urnak/",
+    "https://www.budapest-temetkezes.hu/uzenofal/",
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/contentbox/107/112_contentbox.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": [
+    "Hamvasztás és hamvasztás után az urna hazavitele."
+   ]
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/contentbox/107/3136_contentbox.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": [
+    "hajóstemetés, hajós temetés, dunai temetés, dunai hajóstemetés, dunai hajós temetés, dunai temetkezés"
+   ]
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/contentbox/107/114_contentbox.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": [
+    "Hamvak szórása temetőben szóróparcellában. Hamvak szórásának teljes körű ügyintézése. Hamvak szétszórása."
+   ]
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/contentbox/107/116_contentbox.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": [
+    "Koporsós temetés minőségi koporsóval. Budapesten koporsós temetés teljes körű ügyintézése."
+   ]
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/contentbox/107/3135_contentbox.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": [
+    "Temetkezési ár, temetkezési árak, hamvasztás ár, hamvasztás árak, temetési ár, temetési árak."
+   ]
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/contentbox/107/199_contentbox.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/"
+   ],
+   "contexts": [
+    "inline-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/13/1320352100_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/arajanlat-keres-itt/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/44/1375440068_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/argarancia/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/35/1375265384_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/egyedi-kedvezmeny/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/24/15532532551015247_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/elerhetoseg/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/57/1438252185_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/figyelem-/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/69/1467108776_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/69/1465915022_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/fiumei-uti-temeto/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/47/1381580605_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hajos-emlekezes-napja/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/22/1425387967_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/22/1321134985_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/22/1425387863_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/22/1333808196_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-dunaba/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/18/1322343368_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/18/1425378303_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-szorasa-temeto/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/20/1425386254_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/20/1425383739_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvak-temetese/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/50/1383244938_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383244951_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383247484_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383243971_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383243980_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/50/1383243983_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-menete/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/19/1322569200_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/19/1427461502_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/szomorufuz-temetkezes/contents/static/19/1433065839_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztas-urnakiadas/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/10/1320357227_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hamvasztasos-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32213/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "VANNAK-E KÍNAI SÍROK MAGYARORSZÁGON?"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "HOGYAN VÁLASSZUNK DÍSZURNÁT?"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "BUBIK ISTVÁNRA EMLÉKEZÜNK"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31817/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "ONLINE TEMETÉS-KÖZVETÍTÉS"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "85 ÉVES LENNE GRACE KELLY"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31581/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "A KEGYELETI DÍSZURNÁK TÖRTÉNETÉRŐL"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31418/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "KÖZELEG A HALOTTAK NAPJA - HASZNOS TUDNIVALÓK A BUDAPESTI TEMETŐK LÁTOGATÓI SZÁMÁRA"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "DARGAY ATTILA RAJZFILMMŰVÉSZRE EMLÉKEZÜNK"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "SZOKATLAN TEMETÉSI JÁRMŰVEK"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/article_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "ÉRDEKES ÉS SZOKATLAN URNÁK"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28752/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28752/pics/1401367916_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28752/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/104-eve-halt-meg-a-nagy-paloc-/28752/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30012/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30012/pics/1407950135_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30012/pics/1407950138_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30012/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/2015-marciusaban-temetik-ujra-iii-richardot/30012/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/pics/1415809855_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/pics/1415809858_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/pics/1415809860_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/pics/1415809862_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/pics/1415809863_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/pics/1415809865_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31669/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-grace-kelly/31669/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/pics/1411478238_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/pics/1411478265_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/pics/1411478301_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/pics/1411478304_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/pics/1411478306_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30685/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/85-eves-lenne-varadi-hedi/30685/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28974/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28974/pics/1402598830_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28974/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-30-eve-elhunyt-ferencsik-janos-karmesterre-emlekeztek/28974/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31581/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31581/pics/1415365076_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31581/pics/1415365199_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31581/pics/1415365079_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31581/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-kegyeleti-diszurnak-torteneterol/31581/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23495/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23495/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/a-szocialis-temetesi-torveny-szovege/23495/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30048/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30048/pics/1408187440_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30048/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bajor-imre-temetese/30048/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/pics/1417165088_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/pics/1417164936_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/pics/1417164934_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/pics/1417164937_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/pics/1417164952_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/pics/1417164955_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31939/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/bubik-istvanra-emlekezunk/31939/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819564_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413820351_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819596_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819792_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819892_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819806_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819804_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413819993_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413820012_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/pics/1413820015_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31249/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/dargay-attila-rajzfilmmuveszre-emlekezunk/31249/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/27834/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/27834/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/einstein-halalanak-evfordulojara/27834/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28175/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28175/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/elbucsuztattak-buffo-rigo-sandort-a-100-tagu-ciganyzenekar-elnoket-primasat-/28175/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/pics/1412689146_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/pics/1412689150_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/pics/1412689153_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/pics/1412689155_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/pics/1412689152_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/pics/1412689156_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31012/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/erdekes-es-szokatlan-urnak/31012/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598363_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598463_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598467_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598471_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598499_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598500_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598504_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598505_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598508_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598510_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598512_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598513_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598516_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598520_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598521_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598524_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598526_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598528_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405598532_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/pics/1405601904_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29584/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ezek-is-koporsok-igen-/29584/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23735/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23735/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/facebook-oldal-egy-temetkezesnek-/23735/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29091/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29091/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/gyaszos-ravatal-helyett-zenes-tancos-bucsuparty/29091/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23888/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23888/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hajos-emlekezes-napja-2013-/23888/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29902/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29902/pics/1407270938_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29902/pics/1407270939_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29902/pics/1407270941_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29902/pics/1407270943_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29902/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/harminc-eve-halt-meg-richard-burton/29902/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/pics/1417684688_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/pics/1417684690_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/pics/1417684914_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/pics/1417684685_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/pics/1417684687_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32111/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/hogyan-valasszunk-diszurnat-/32111/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28009/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28009/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/jon-az-egyseges-elektronikus-anyakonyv-egyszerubb-es-gyorsabb-ugyintezest-varhatunk/28009/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28850/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28850/pics/1401907588_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28850/pics/1401907623_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28850/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kina-tulnepesedese-mar-a-temetkezesi-gyakorlatra-is-kihat/28850/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29233/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29233/pics/1403784771_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29233/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kobanyan-lehet-a-szegenytemeto-/29233/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31418/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31418/pics/1414664134_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31418/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/kozeleg-a-halottak-napja-hasznos-tudnivalok-a-budapesti-temetok-latogatoi-szamara/31418/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30410/pics/1410266144_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30410/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30410/pics/1410266148_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30410/pics/1410266150_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30410/pics/1410266154_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/30410/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mate-peterre-emlekezunk-halalanak-harmincadik-evfordulojan/30410/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/27899/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/27899/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/mateszsz-taggyules/27899/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29724/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29724/pics/1406174656_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29724/pics/1406174660_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29724/pics/1406174658_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29724/pics/1406174665_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29724/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/megkezdtek-a-lelott-malaj-gep-holland-aldozatainak-hazaszallitasat/29724/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23366/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23366/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/ombudsmanhoz-fordulnak-a-szocialis-temetes-miatt/23366/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28342/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/28342/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/onkormanyzati-segely-regebbi-neven-temetesi-segely/28342/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31817/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31817/pics/1416436719_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31817/pics/1416436746_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31817/pics/1416436800_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31817/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/online-temetes-kozvetites/31817/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23529/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/23529/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szocialis-temetes-helyett-kegyeleti-jarandosagot-/23529/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463316_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463318_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463320_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463321_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463323_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463325_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463411_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463412_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463416_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463419_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463421_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463565_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463567_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/pics/1413463571_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/31174/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/szokatlan-temetesi-jarmuvek/31174/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29288/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29288/pics/1404213315_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29288/pics/1404213262_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29288/pics/1404213352_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29288/pics/1404213424_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29288/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/tegnap-elbucsuztattak-grosics-gyulat/29288/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/26254/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/26254/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-kultura/26254/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29855/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29855/pics/1406820650_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/29855/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/temetkezesi-musor-a-norveg-televizioban/29855/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/26077/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/26077/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/urnaelhelyezes-otthon-kegyeleti-vagy-anyagi-kerdes-/26077/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32213/article_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32213/pics/1418295494_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/article/45/32213/article_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/hirek-aktualitasok/vannak-e-kinai-sirok-magyarorszagon-/32213/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/17/1321220523_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/17/1375694035_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/17/1321219915_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/17/1322350126_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/17/15412689606347253_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/koporsos-temetes/"
+   ],
+   "contexts": [
+    "img",
+    "img-mobile"
+   ],
+   "alts": [
+    "Koporsó bemutatóterem, exkluzív koporsók raktárról."
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/71/15327021641769481_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/71/15326801268267038_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/munkalehetoseg/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/23/1322343257_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/polgari-bucsuztatas/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/39/1361712786_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/39/1375683939_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/39/1433064874_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/ravatalozo-terem/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598956_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Urnakereszt árnyalt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598957_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art urnakereszt natúr"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598958_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art urnakereszt barna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598959_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art urnakereszt fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598960_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art esővédős urnakereszt natúr"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598961_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art esővédős urnakereszt barna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598962_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art urnafejfa natúr"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598963_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art urnafejfa barna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/75/37870/598964_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/sirjelzo/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Art urnafejfa fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/52/1383335313_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/52/1383334260_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/52/1383334265_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/52/1383335682_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/52/1383334252_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/52/1383334245_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szocialis-temetes/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/27/1325928091_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/szukseges-iratok/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/32/1328960168_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/tajekoztatas-keres/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/53/1399895263_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/teendok-halaleset-utan/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1312/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Alkonyat Sephia kézzel festett urna - 0102002"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1313/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Cédrus Sephia kézzel festett fémurna - 0102003"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1317/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Csend Sephia kézzel festett fémurna - 0102004"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1318/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Erdő Sephia kézzel festett fémurna - 0102005"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/517/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Fejfa Sephia kézzel festett fémurna - 0102001"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1319/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Liliom Sephia kézzel festett fémurna - 0102006"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1320/datasheet_150x150.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/",
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/"
+   ],
+   "contexts": [
+    "img",
+    "og:image"
+   ],
+   "alts": [
+    "Vízpart Sephia kézzel festett fémurna - 0102007"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1312/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/alkonyat-sephia-kezzel-festett-urna-0102002/1312/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1313/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/cedrus-sephia-kezzel-festett-femurna-0102003/1313/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1317/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/csend-sephia-kezzel-festett-femurna-0102004/1317/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1318/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/erdo-sephia-kezzel-festett-femurna-0102005/1318/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/517/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/fejfa-sephia-kezzel-festett-femurna-0102001/517/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1319/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/liliom-sephia-kezzel-festett-femurna-0102006/1319/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/datasheet/uploads/1320/datasheet_600x500.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/termek-adatlapok/vizpart-sephia-kezzel-festett-femurna-0102007/1320/"
+   ],
+   "contexts": [
+    "og:image"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598965_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Légcsipke 1 urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598966_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Légcsipke 2 urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598967_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Háló tüll fehér urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598968_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Háló tüll beige urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598969_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Háló tüll fekete urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598970_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Márvány tüll fehér urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598971_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Márvány tüll fekete urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598972_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Jázmin fehér urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598973_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Jázmin arany urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598974_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Ovál organza urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598975_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Nefelejcs fehér urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598976_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kehely arany urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598977_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kereszt arany urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37871/598978_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kereszt-liliom arany urnaterítő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598979_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll fehér urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598980_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll fekete urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598981_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll hímzett kereszt fehér urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598982_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll hímzett kehely arany urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598983_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll hímzett nefelejcs arany urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598985_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll iker fehér urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598986_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tüll iker fekete urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598987_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szalag urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598988_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szalag kereszt urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/76/37872/598989_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/textiliak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szalag nefelejcs urna leeresztő"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598648_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko galamb"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598649_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko horgony"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598651_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko kék horgony"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598647_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko kék kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598954_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598657_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko magnólia"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598652_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko mogyoró fűz"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598650_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko mogyoró kála"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598654_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko mogyoró kehely"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598653_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko mogyoró kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598955_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko párna föld"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598655_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko párna kagyló"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11232/598656_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Öko párna levél"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598658_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Z-011/Fa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11231/598659_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Z-011/Kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598664_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 1 bronz"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598666_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 2 metszett"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598661_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 3 gyöngyház arany"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/11239/598665_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 4 gyöngyház ezüst"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598667_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Koporsó alakú urna dió"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37862/598668_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Koporsó alakú mahagóni"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598948_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Agapé fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598947_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Agapé fekete urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598880_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Alba kereszt urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598919_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Angyal urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598949_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Angyal fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598882_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Araxes aranyozott fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598914_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Atlasz kála fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598915_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Atlasz kála gránit urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598883_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell bronz antracit urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598884_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell gomb fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598918_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell kereszt fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598885_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell rusztik fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598888_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell rusztik mályva urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598886_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell rusztik grafit urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598916_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell szív fehér urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598887_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bell tenger zöld urna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598890_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Bora rózsa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598889_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Borostyán aranyozott ekrü"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598891_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Borostyán aranyozott fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598893_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Borostyán aranyozott kereszt fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598894_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Borostyán kontúrozott kereszt fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598858_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva bronz kehely"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598859_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva bronz kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598860_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva bronz rózsa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598852_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598892_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva kehely"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598895_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598897_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva rózsa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598850_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Dráva matt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598917_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Futórózsa aranyozott ekrü"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598920_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Futórózsa aranyozott fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598861_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Fűz fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598921_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Fehér galamb"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598925_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Gyémánt gyöngyház"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598923_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Gyöngy"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598924_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kápolna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598864_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Katedrál aranyozott kehely fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598863_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Katedrál aranyozott kereszt fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598865_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Katedrál aranyozott virág fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598951_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kereszt liliom fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598950_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kereszt liliom fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598866_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Könnycsepp ezüst"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598868_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Leander"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598867_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Leander fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598952_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Leander fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598953_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Leander ekrü"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598927_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Meotisz fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598930_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Meotisz fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598855_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Opusz aranyozott kehely fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598854_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Opusz aranyozott kehely fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598851_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Kerámia urnák"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598853_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Opusz aranyozott kereszt fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598856_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Opusz aranyozott virág fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598901_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Oxus aranyozott fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598929_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Oxus aranyozott fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598857_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Salvio ekrü"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598869_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Salvio fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598874_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Rózsa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598872_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szikla grey"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598871_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szikla kereszt fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598903_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szikla kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598873_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szikla szív fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598907_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szív szürke"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598904_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szív barna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598905_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szív fekete"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598906_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Szív fekvő bordó"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598908_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Terra angyal"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598909_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Terra ima"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598912_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Terra kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598913_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Terra rózsa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598910_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tisza kála aranyozott ekrü"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598911_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Tisza kála aranyozott fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598876_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Torda kála"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598878_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Torda kereszt"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598931_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Torda pipacs"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598877_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Torda szív"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598898_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Zeusz kála barna"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37868/598900_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Zeusz kereszt fehér"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598932_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Alto kereszt antracit"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598934_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Alto kereszt arany"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598935_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Alto kereszt arany virág"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598933_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Fatum alkony"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598936_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Fatum fa"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598937_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Fatum pad"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598943_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Fatum vízpart"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598938_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Meteo kereszt antracit"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598940_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Meteo virág antracit"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598939_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Meteo rózsa arany"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598941_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 1 bronz"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598944_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 2 metszett"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598946_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 3 gyöngyház arany"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/gallery/14/37869/598945_pic_100x100.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/urnak/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [
+    "Pr 4 gyöngyház ezüst"
+   ],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/contents/static/21/1325107010_200x.jpg": {
+   "pages": [
+    "https://www.budapest-temetkezes.hu/visszajelzes-kuldese/"
+   ],
+   "contexts": [
+    "img"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular": {
+   "pages": [
+    "CSS: design/font-awesome/css/font-awesome.min.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/icon_error.gif": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/icon_ok.gif": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/icon16_close.gif": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/age_limit.gif": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/admin/style_global/pics/loader2.gif": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/hori-large.png": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/rss_logo_s.jpg": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://demo.paypal.com/img/merchantimages/lock.png": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/global/loading.gif": {
+   "pages": [
+    "CSS: design/index.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_header_bg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/search.jpg": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_submit.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_basket.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_basket_ikon.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/pay_button.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/wsb_cb_bg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/wsb_c_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/no_photo_50x50.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/del.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/button.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/main_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/header_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/pic_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/pic.jpg": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/on_pic.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menutop_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/li_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/li_a_hover.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/li_a_active.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/box_bottom.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/box_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/box_bottom_right.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/h3_bg_right.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/h3_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menuside_li.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menuside_li_first.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menuside_li_first_hover.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menuside_li_hover.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/h2_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/center_bottom.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/content_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/button2.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_hover.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/gallery_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/footer_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/link_all.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/longh2_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/wide_h2_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/center_wide_bottom.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/content_wide_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/loginlink.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_del.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/boxnew.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/sortable.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/no_photo_150x150.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/arrow.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/new.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/basket.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/spec_bg.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/spec_wide.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/no_photo_70x70.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_plus.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/ws_minus.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/order.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/form_bottom.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/form_content.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/form_top.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/form_input.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/form_textarea.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/form_button.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/no_photo_100x100.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/tabs.gif": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/slider.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/main_bg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/header_bg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menutop_bg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/cbg_on_pic.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/cbg_footer.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/box_bottom.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/h3_bg_right.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/box_bottom_right_cbg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/menuside_li_first_cbg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/13/colors/1/style/pics/wide_h2_bg.png": {
+   "pages": [
+    "CSS: design/13/colors/1/style/design.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/pages/avszomfuzbud/desing/style/ps.png": {
+   "pages": [
+    "CSS: pages/avszomfuzbud/desing/style/addcss.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-bg_flat_75_ffffff_40x100.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-bg_glass_75_dadada_1x400.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-bg_glass_65_ffffff_1x400.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/design/smoothness/images/ui-icons_222222_256x240.png": {
+   "pages": [
+    "CSS: design/smoothness/jquery_datepicker.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  },
+  "https://www.budapest-temetkezes.hu/common/uploadifive/uploadifive-cancel.png": {
+   "pages": [
+    "CSS: common/uploadifive/uploadifive.css"
+   ],
+   "contexts": [
+    "css-bg"
+   ],
+   "alts": [],
+   "titles": []
+  }
+ }
+}
